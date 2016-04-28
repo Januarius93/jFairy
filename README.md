@@ -1,6 +1,6 @@
 # jFairy
 
-##**jFairy tutorial**
+##*jFairy tutorial*
 
 Create group of friends (min 5 persons) with different characteristics like age , derivation, sex, company etc. 
 Persons should be associated with companies like in MainApp expamples.
