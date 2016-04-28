@@ -6,8 +6,8 @@
 STEPS:
 * Create blank Java project in your IDE
 * Add maven framework support
-* http://mvnrepository.com/artifact/org.slf4j/slf4j-simple/1.6.1 and add dependecy
-* Go to http://mvnrepository.com/artifact/org.jfairy/jfairy
+* http://mvnrepository.com/artifact/org.slf4j/slf4j-simple/1.6.1 and add a dependecy
+* Go to http://mvnrepository.com/artifact/org.jfairy/jfairy and add a dependency
 * Follow prezi: https://prezi.com/ixvxhbngsyhv/jfrairy/
 
 
